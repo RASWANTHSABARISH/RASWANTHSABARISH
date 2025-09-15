@@ -1,48 +1,41 @@
-<!-- HEADER -->
-<h1 align="center">👋 Hi, I'm Raswanth Sabarish J M</h1>
-<h3 align="center">💻 CSE Student | Web Developer | Problem Solver</h3>
+# 👋 Hi, I'm Dhurai Singam
+
+I’m a **developer and tech enthusiast** passionate about building real-world projects and learning cutting-edge tech. I love **web development, AI projects, and problem-solving**.
 
 ---
 
-<!-- SKILLS -->
-### 🛠️ Tech Skills
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,react,nodejs,express,mongodb,mysql,git,linux,python&perline=6" />
-</p>
+## 🧰 Skills
+
+### 💻 Programming & Web
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+### 🛠 Tools & Databases
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+
+
+## 📈 GitHub Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DhuraiSingam&theme=dark)
 
 ---
 
-<!-- PROJECTS -->
-### 🚀 Projects
-- ☀️ **BIPV Potential Assessment (SIH’24 Finalist)** → Solar energy analysis with **QGIS, Cesium, Unreal Engine**  
-- 📖 **3D Book Web App** → Built with **React + Three.js**, realistic page-flip animations  
-- 🔑 **Secure Password Manager** → **MERN + bcrypt**, secure credential storage  
-- ✅ **Todo App (MERN)** → Full CRUD operations with clean UI  
+## 🌱 Currently Learning
+- Advanced DSA  
+- DevOps: Docker, Kubernetes, Jenkins  
+- Full Stack Web Dev (Next.js + Tailwind)
 
 ---
 
-<!-- GITHUB STATS -->
-### 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RASWANTHSABARISH&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RASWANTHSABARISH&theme=tokyonight" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RASWANTHSABARISH&theme=react-dark&hide_border=true" />
-</p>
-
----
-
-<!-- CONNECT -->
-### 🌍 Connect with Me
-<p align="center">
-  <a href="mailto:raswanthsabarish@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/raswanth-sabarish-j-m-5a23bb293/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://leetcode.com/u/Raswanthsabarish_j_m/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
-  <a href="https://github.com/RASWANTHSABARISH"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
-
----
-
-<h3 align="center">✨ "Learning, Building, and Growing as a Developer" ✨</h3>
+## 🤝 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/DhuraiSingam)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhurai@example.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/DhuraiSingam)
