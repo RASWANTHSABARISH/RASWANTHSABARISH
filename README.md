@@ -1,66 +1,81 @@
 <!-- HEADER -->
-<h1 align="center">👋 Hi, I'm Raswanth Sabarish</h1>
-<h3 align="center">🚀 Computer Science Engineer • Web developer  • Builder of Ideas</h3>
+<h1 align="center">👋 Hi, I'm Raswanth Sabarish J M</h1>
+<h3 align="center">🚀 CSE Undergraduate • Web Developer • Problem Solver</h3>
 
 ---
 
 <!-- INTRO -->
 ### 🌟 Quick Intro
-- 🎓 CSE Final Year Student  
-- 💻 Currently building with **React, Node.js, MongoDB**  
-- 📊 Running a **Textile Business** (manufacturing & scaling devotional towels, T-shirts)  
-- 🌱 Future vision: **Real Estate + Tech Products**  
-- ✨ Motto: *"Code, Build, Hustle, Repeat"*  
+- 🎓 Computer Science student at **Kongu Engineering College (2022–2026)**  
+- 💻 Interested in **Web Development, Security, and 3D Applications**  
+- 📚 Preparing with **DSA, DBMS, CN, OS, DevOps** for placements  
+- ✨ Passionate about building interactive applications & secure systems  
 
 ---
 
 <!-- SKILLS GRID -->
-### 🛠️ Tech & Tools
+### 🛠️ Technical Skills
+- **Languages:** C, Java  
+- **Front-End:** HTML, CSS  
+- **Frameworks:** React.js, Node.js, Express.js  
+- **Database:** MongoDB, MySQL  
+- **Design Tools:** Photoshop, Illustrator, Figma, Canva  
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,cpp,java,python,git,docker,linux&theme=light" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,java,c,git,linux&theme=light" />
 </p>
-
----
-
-<!-- BUSINESS SECTION -->
-### 🏢 Entrepreneurial Side
-📌 **Current Ventures**
-- 🧵 Textile business → producing 3000+ towels/week  
-- 👕 Exploring T-shirt design & branding startup  
-- 🌐 Taking local businesses **online** (E-Agri Farmers Trade Website project)  
-
-📌 **Future Ventures**
-- 🏠 Real Estate development & investment  
-- 💡 Hybrid tech-business solutions for rural India  
 
 ---
 
 <!-- PROJECTS -->
-### 🚀 Featured Projects
-- 🧑‍⚕️ **Chronic Kidney Disease Detection (Hybrid CNN-SVM)** – Final Year Research Project  
-- 🌾 **E-Agri Farmers Trade Website** – bringing agriculture tools to e-commerce  
-- ✅ **Todo List App (MERN)** – full CRUD with clean UI  
-- 🎨 **3D Book Webpage (React + Jotai)** – interactive state management experiment  
+### 🚀 Projects
+- ☀️ **BIPV Potential Assessment and Visualization (SIH’24 Finalist)**  
+   Solar energy analysis tool using **QGIS, Cesium, Unreal Engine, OSM**.  
+   Simulated building shadows & integrated real-time solar data.  
+
+- 📖 **3D Book Web Application**  
+   Interactive 3D book viewer with **React + Three.js**, enabling realistic page flip animations.  
+
+- 🔑 **Secure Password Manager**  
+   Credential manager using **MERN stack + bcrypt**, with encryption & authentication protocols.  
 
 ---
 
-<!-- GITHUB STATS CLEAN VERSION -->
-### 📊 My GitHub in Numbers
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=default&hide_border=false" />
-</p>
+<!-- EXPERIENCE -->
+### 💼 Experience
+- 🕹️ **Climetaverse (Oct 2024 – Dec 2024)** → *3D Modeler & VR Developer Intern*  
+  - Created industrial models with Blender.  
+  - Built immersive VR training simulations in **Unreal Engine 5**.  
+
+- 🎨 **Digiplus (Sep 2024 – Mar 2025)** → *Graphic Design Intern*  
+  - Designed branding & marketing materials.  
+  - Produced consistent visual assets across platforms.  
+
+---
+
+<!-- ACHIEVEMENTS -->
+### 🏆 Achievements
+- National Finalist – **Smart India Hackathon 2024** (BIPV Project)  
+- 3rd Prize – **Proof of Concept 2K23** (Automatic Railway Gate)  
+
+---
+
+<!-- CERTIFICATIONS -->
+### 📜 Certifications
+- MongoDB Certified Associate Developer  
+- Ethical Hacking – 2-Credit College Course  
 
 ---
 
 <!-- CONNECT -->
-### 🌍 Let’s Connect
+### 🌍 Connect with Me
 <p align="center">
-  <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+  <a href="mailto:raswanthsabarish@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/raswanth-sabarish-j-m-5a23bb293/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/RASWANTHSABARISH"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/Raswanthsabarish_j_m/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 </p>
 
 ---
 
-<!-- FOOTER QUOTE -->
-<h3 align="center">✨ "I don't just write code. I build businesses, solve problems, and create opportunities." ✨</h3>
+<h3 align="center">✨ "Focused on coding, problem-solving, and building impactful tech." ✨</h3>
