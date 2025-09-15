@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">👋 Hi, I'm Raswanth Sabarish</h1>
-<h3 align="center">🚀 Engineer • 3D developer  • Builder of Ideas</h3>
+<h3 align="center">🚀 Computer Science Engineer • Web developer  • Builder of Ideas</h3>
 
 ---
 
