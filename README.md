@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dhurai Singam
+# 👋 Hi, I'm Raswanth Sabarish
 
 I’m a **developer and tech enthusiast** passionate about building real-world projects and learning cutting-edge tech. I love **web development, AI projects, and problem-solving**.
 
