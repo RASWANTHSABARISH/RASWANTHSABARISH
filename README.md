@@ -24,7 +24,6 @@ I’m a **developer and tech enthusiast** passionate about building real-world p
 
 ## 📈 GitHub
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RASWANTHSABARISH&theme=dark) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RASWANTHSABARISH&layout=donut)](https://github.com/RASWANTHSABARISH/github-readme-stats)
 
 ---
 
