@@ -23,7 +23,7 @@ I’m a **developer and tech enthusiast** passionate about building real-world p
 
 
 ## 📈 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DhuraiSingam&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RASWANTHSABARISH&theme=dark)
 
 ---
 
