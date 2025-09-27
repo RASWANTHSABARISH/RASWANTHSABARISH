@@ -22,8 +22,9 @@ I’m a **developer and tech enthusiast** passionate about building real-world p
 
 
 
-## 📈 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RASWANTHSABARISH&theme=dark)
+## 📈 GitHub
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RASWANTHSABARISH&theme=dark) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RASWANTHSABARISH&layout=donut)](https://github.com/RASWANTHSABARISH/github-readme-stats)
 
 ---
 
@@ -35,5 +36,4 @@ I’m a **developer and tech enthusiast** passionate about building real-world p
 ---
 
 ## 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raswanth-sabarish)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raswanthsabarishj.22cse@kongu.edu)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raswanth-sabarish)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raswanthsabarishj.22cse@kongu.edu)  
